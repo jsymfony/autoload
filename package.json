@@ -1,0 +1,24 @@
+{
+    "name": "jsymfony-autoload",
+    "description": "Autoloading system",
+    "version": "0.0.1",
+    "author": "Vasily Khayrulin <sirianru@gmail.com>",
+    "keywords": ["namespace", "autoload"],
+    "dependencies": {
+        "debug": "*"
+    },
+    "devDependencies": {
+        "mocha": "1.7.4"
+    },
+    "main": "./index.js",
+    "engines": {
+        "node": ">= 0.8.16"
+    },
+    "bugs": {
+        "url": "https://github.com/jsymfony/autoload/issues/new"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jsymfony/autoload.git"
+    }
+}
