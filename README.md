@@ -5,7 +5,7 @@ Autoload
 
 Пример
 ---------
-В проекте Acme имеется файл src/Foo/Bar.js
+В проекте Acme имеется файл src/Foo/Bar.js, экспортирующий функцию-конструктор
 
 ```javascript
 var autoload = require('autoload');
