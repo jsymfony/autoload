@@ -1,16 +1,12 @@
 {
     "name": "jsymfony-autoload",
-    "description": "Autoloading system",
+    "description": "Namespaced autoloading system",
     "version": "0.0.1",
     "author": "Vasily Khayrulin <sirianru@gmail.com>",
     "keywords": ["namespace", "autoload"],
     "dependencies": {
         "debug": "*"
     },
-    "devDependencies": {
-        "mocha": "1.7.4"
-    },
-    "main": "./index.js",
     "engines": {
         "node": ">= 0.8.16"
     },
